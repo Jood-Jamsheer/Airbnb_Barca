@@ -1,0 +1,2 @@
+# Airbnb_Barca
+This project analyzes Airbnb listings in Barcelona to identify trends in pricing, availability, and demand. Using Excel, the dataset is cleaned, organized, and visualized to uncover insights such as the most popular neighborhoods, average nightly rates, and seasonal patterns. Key metrics are summarized with pivot tables, charts, and conditional formatting to support data-driven recommendations for hosts and potential investors.
